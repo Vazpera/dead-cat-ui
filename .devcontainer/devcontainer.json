@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "name": "developement-devcontainer",
+  "features": {
+    "ghcr.io/devcontainers/features/rust:1": {}
+
+  }
+}
